@@ -26,6 +26,14 @@ The Power BI dashboard follows a **star schema** with the following key tables:
 ### **Data Model Schema**
 [image](https://github.com/user-attachments/assets/7bbc5800-b2d6-4830-9629-51550bb62049)
 
+### **Dashboard Views**
+[Sales View](https://github.com/user-attachments/assets/7ab4a2bf-d787-4161-a6d6-b26ccfab246b)
+
+[Marketting View](https://github.com/user-attachments/assets/54908c2c-9031-463d-bec2-8fb588098dcc)
+
+[Supply Chain View](https://github.com/user-attachments/assets/2a8392fc-3fa9-4273-9f4a-a7781214f669)
+
+[Finance View](https://github.com/user-attachments/assets/c719e3d6-85c4-4d1c-aabf-f4fa277fa73b)
 
 ## 🔧 How to Use
 1. **Download & Open** – Open `Forecast_Accuracy.pbix` in **Power BI Desktop**.
