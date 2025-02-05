@@ -27,6 +27,8 @@ The Power BI dashboard follows a **star schema** with the following key tables:
 [image](https://github.com/user-attachments/assets/7bbc5800-b2d6-4830-9629-51550bb62049)
 
 ### **Dashboard Views**
+
+** Open the images in a new tab for ease of access
 [Sales View](https://github.com/user-attachments/assets/7ab4a2bf-d787-4161-a6d6-b26ccfab246b)
 
 [Marketting View](https://github.com/user-attachments/assets/54908c2c-9031-463d-bec2-8fb588098dcc)
@@ -42,11 +44,8 @@ The Power BI dashboard follows a **star schema** with the following key tables:
 4. **Identify Risks** – Address **out-of-stock** and **excess inventory** situations.
 
 ## 📁 Repository Files
-📂 **`Forecast_Accuracy.pbix`** → The Power BI dashboard file.  
+📂 **`Forecast_Accuracy.pbix`** → The Power BI dashboard is not shareable due to the filesize, however will be provided on demand.  
 📂 **`Data_Model_Schema.png`** → Diagram of the data model relationships.  
-📂 **`Screenshots/`** → Images showing dashboard UI & insights.  
-📂 **`SQL_Scripts/`** → SQL queries used for data extraction.  
-📂 **`DAX_Formulas.md`** → Documentation of key DAX measures used in Power BI.  
 
 ## 🛠️ Key DAX Measures
 Here are some of the main **DAX formulas** used in the report:
